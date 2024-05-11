@@ -20,3 +20,12 @@ This project aims to develop a predictive model for forecasting stock prices usi
 
 ## Usage
 1. Clone the repository:
+2. Install the required dependencies:
+3. 3. Run the `forecast_stock_prices.py` script:
+4. View the forecasted stock prices plotted against historical data in the generated graph.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality of this project.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
